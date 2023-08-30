@@ -20,6 +20,7 @@ General Programs: All Microsoft Office, Google Drive, and Spreadsheets
 
 ## ACADEMIC & PERSONAL PROJECTS
 [Course Based Projects](Course_Based_Projects)
-[Personal Projects](Personal Projects)
+
+[Personal Projects](Personal_Projects)
 
 ### 
