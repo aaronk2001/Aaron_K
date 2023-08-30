@@ -19,6 +19,7 @@ Programming: Python, C, C++, IDE developers (MPLAB, PSOC4, Arduino IDE), and Web
 General Programs: All Microsoft Office, Google Drive, and Spreadsheets
 
 ## ACADEMIC & PERSONAL PROJECTS
-[idk](Course_Based_Projects)
+[Course Based Projects](Course_Based_Projects)
+[Personal Projects](Personal Projects)
 
 ### 
