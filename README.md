@@ -4,11 +4,13 @@
 ## SUMMARY
 Robotics Engineer with a B.S.E. in Robotics Engineering from Arizona State University and hands-on experience leading the design, development, and automation of robotic systems. Currently an Engineer II at Handwrytten, specializing in electrical systems, robotic integration, PLC development, and custom hardware manufacturing. Skilled in Python, ECAD/MCAD, and cross-functional team leadership. Seeking an engineering role focused on robotic control systems, embedded software, or electrical system development. 
 
-## EDUCATION
-Arizona State University – Polytechnic Campus, Mesa, AZ
-Ira A. Fulton Schools of Engineering
-B.S.E., Robotics Engineering
-August 2021 – July 2024
+## Education
+
+### Arizona State University – Polytechnic Campus  
+**Mesa, AZ**  
+*Ira A. Fulton Schools of Engineering*  
+**B.S.E., Robotics Engineering**  
+*August 2021 – July 2024*
 
 ## Experience
 ### Handwrytten – Engineer II  
