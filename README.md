@@ -16,7 +16,7 @@ Robotics Engineer with a B.S.E. in Robotics Engineering from Arizona State Unive
 **Tempe, AZ** | *September 2024 – Present*  
 Lead engineer on next-generation robotic systems and production infrastructure.
 
-- Led design and development of advanced robotic writing arms, improving throughput and reliability  
+- Developed new writing arm for robots allowing for more efficient production of the product
 - Managed a team of 4–5 engineers and technicians responsible for robot assembly, maintenance, and deployment  
 - Developed and maintained PLC-based automation systems for product insertion and quality assurance  
 - Designed PCBs using KiCAD and integrated them into custom robotics platforms  
