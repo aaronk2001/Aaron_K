@@ -62,8 +62,16 @@ Supported production and R&D teams in robotic system prototyping and QA processe
 - Microsoft Office Suite, Google Workspace  
 
 
-## ACADEMIC & PERSONAL PROJECTS
-[Course Based Projects](Course_Based_Projects)
+## ACADEMIC PROJECTS
 
-[Personal Projects](Personal_Projects)
+### Robotic Arm Actuated Glovebox  
+**Arizona State University & Los Alamos National Laboratory**  
+*January 2023 – April 2024*  
+Led a 3-person team to design and prototype a robotic glovebox interface for remote manipulation tasks.
+
+- Managed full lifecycle development: simulation, controls, hardware integration, and testing  
+- Developed Python software to interface a 6-DOF robotic arm with standard input devices (e.g., Xbox controller)  
+- Simulated full robotic operation using RoboDK; validated kinematics and workspace  
+- Integrated UR5e robot using Polyscope and URSim for real-world operation  
+- Designed and fabricated a custom glovebox prototype using SolidWorks and CNC/laser cut methods  
 
